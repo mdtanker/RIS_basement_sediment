@@ -1,0 +1,34 @@
+#x, y, [angle, font, justify], text
+
+-320000		-440000		-65	CM	Mercer
+-385000		-555000		-5	CM	Whillans
+-538026		-643848		-25	CM	Kamb
+-645000		-700000		-45	CM	Bindschadler
+-660000		-850000		-37	CM	MacAyeal
+
+-380000		-850000 	0 	TC Siple Dome
+-200000		-620000		0 	TC Crary Ice
+-200000		-660000		0 	TC Rise
+
+-626261		-1150000	0 	TC Edward VII
+-626261		-1190000	0 	TC Peninsula
+
+-400000		-1250000	0 	TC Roosevelt
+-400000		-1290000	0 	TC Sub-Basin
+
+-360000		-1110000	0 	TC Roosevelt
+-360000		-1150000	0 	TC Island
+
+90000		-1360000	0 	TC DSDP 270
+
+-50000		-1960000 	0 	TC Iselin
+-50000		-2000000 	0 	TC Bank
+
+306770		-1330000	0	TC	Ross
+306770		-1370000	0	TC	Island
+
+400000		-905000		50 	BC	Byrd	
+265000		-740000		50 	BC	Nimrod	
+100000		-580000		75 	BC	Beardmore
+-42000		-500000		82 	BC	Shackleton
+#-230000		-400000		70		BC	Scott	
