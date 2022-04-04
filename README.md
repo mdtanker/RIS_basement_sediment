@@ -7,7 +7,7 @@ This repository accompanies our 2022 Geophysical Research Letters article *Basem
 
 Here we document our scientific workflow in a Jupyter notebook, present our gridded results as netCDF files, and showcase our figures created using PyGMT.
 
-The main body of this work centers on the Werner deconvolution of airborne magnetics data from a 10km grid of flight line data (ROSETTA-Ice) over the Ross Ice Shelf. The deconvolution and subsequent filtering/binning of the results give a magnetic basement surface, which represents to contact between non-magnetic sediments/sedimentary rocks and underlying crystalline basement. 
+The main body of this work centers on the Werner deconvolution of airborne magnetics data from a 10km grid of flight line data (ROSETTA-Ice) over the Ross Ice Shelf. The deconvolution and subsequent filtering/binning of the results give a magnetic basement surface, which represents to contact between non-magnetic sediments/sedimentary rocks and underlying crystalline basement. These results are also hosted at [PANGAEA](https://doi.pangaea.de/10.1594/PANGAEA.941238).
 
 ## Installation
 
