@@ -13,4 +13,7 @@ data/input/moa750_2009_hp1_v1.1.tif
 data/input/RIS123_1Hz_intermediate_basement.csv
 data/input/RIS123_1Hz_intermediate_Werner_2021_500_to_50k.csv
 
+data/results/rs.csv
+data/results/rs_mag.csv
+
 gmt.history
