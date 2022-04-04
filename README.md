@@ -9,6 +9,8 @@ Here we document our scientific workflow in a Jupyter notebook, present our grid
 
 The main body of this work centers on the Werner deconvolution of airborne magnetics data from a 10km grid of flight line data (ROSETTA-Ice) over the Ross Ice Shelf. The deconvolution and subsequent filtering/binning of the results give a magnetic basement surface, which represents to contact between non-magnetic sediments/sedimentary rocks and underlying crystalline basement. These results are also hosted at [PANGAEA](https://doi.pangaea.de/10.1594/PANGAEA.941238).
 
+<!---[Basement Depths for Ross Ice Shelf](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)--->
+
 ## Installation
 
 ### Download a copy of this repository
