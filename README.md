@@ -42,3 +42,19 @@ In *miniforge prompt*
     jupyter lab
     
 Open the *Tankersley2022_GRL.ipynb* to follow through our workflow. Use the *Table of Contents* button on the left to show the notebook outline. Note there are a few files needed to be downloaded seperately, as shown in the notebook.
+
+## Citing
+This *Geophysical Research Letters* paper can be cited with the following citation or BibTex code:
+
+Tankersley, M. D., Horgan, H. J., Siddoway, C. S., Caratori Tontini, F., & Tinto, K. J. (2022). Basement topography and sediment thickness beneath Antarctica’s Ross Ice Shelf imaged with airborne magnetic data. Geophysical Research Letters.
+
+    @article{tankersleybasement2022,
+      title = {Basement Topography and Sediment Thickness beneath {{Antarctica}}'s {{Ross Ice Shelf}} Imaged with Airborne Magnetic Data},
+      author = {Tankersley, M.D. and Horgan, H. J. and Siddoway, C. S. and Caratori Tontini, F. and Tinto, K. J.},
+      year = {2022},
+      journal = {Geophysical Research Letters}
+    }
+
+
+
+
