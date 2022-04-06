@@ -1,0 +1,11 @@
+Stations ID,X,Y,Lat,Lon,Location Reference,Basement Depth,sed_thickness,Uncertainty,Depth/thickness Reference
+BC,-196203.082,-787688.908,-82.539,-166.013,Paper 2,,1900,400,"Paper 3, didnt reach basement, so its a min thickness"
+I10S,-103306.8305,-766480.5075,-82.89055556,-172.3238889,"Paper 1, Table 1 caption",,750,100,Paper 3
+J9DC,-163354.9631,-813520.6858,-82.374,-168.646,"Paper 2, J9 locations",,1350,0,"Paper 3 1700+-300, Greishchar 1992 states 1350 m (J9DC), "
+RI,-337855.9891,-1013329.132,-80.192,-161.561,Paper 2,,850,0,"Paper 3 states 2000 +- 400 and 1000 +- 400, Greishcar 1992 states 850m"
+Q13,1627.7169,-1203370.964,-78.9575,179.9225,Paper 2,,255,145,"Greischar 1992, 110-400m"
+C16,158256.737,-945451.5455,-81.19388889,170.4975,Paper 2,,2600,0,"Greischar 1992, from gravity modeling"
+C49,-404274.129,-1196645.518,-78.413,-161.333,Crary 1961,,754,0,Crary 1961
+LAS,-393747.8951,-1227610.318,-78.175,-162.2167,Crary 1961,,1325,0,Crary 1961
+UpB,-478914,-527428,-83.45,-137.76,Georeferenced from Rooney et al. 1987,,970,0,Rooney et al. 1987 Seismic reflection profile recalculated from Rooney et al. 1987 from 2km to 970m
+CIR,-159400,-659200,-83.764,-166.406,Georeferenced from Rooney et al. 1987,,400,0,Rooney et al. 1987 Seismic refraction measurements 

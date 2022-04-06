@@ -1,0 +1,97 @@
+#x, y, [angle, font, justify], text
+#100000		-780000		0 TC Western
+#100000		-820000		0 TC Ross Basin
+100000		-830000		0 TC Western
+100000		-870000		0 TC Ross Basin
+
+#-450000 	-972147 	0 TC Shirase
+#-450000 	-1012147 	0 TC High
+
+-480000		-728106 	0 TC Siple Dome
+-480000		-768106 	0 TC Basin
+
+255447		-1640000	0 TC Coulman 
+255447		-1680000	0 TC High
+
+#-626261		-1256561	0 TC Edward VII
+#-626261		-1296561	0 TC Peninsula
+
+#255447		-1614087	0 TC Coulman 
+#255447		-1654087	0 TC High
+
+#-400000		-1250000	0 TC Roosevelt
+#-400000		-1290000	0 TC Sub-Basin
+
+#-360000		-1110000	0 TC Roosevelt
+#-360000		-1150000	0 TC Island
+
+#-150000 	-850000 	0 TC Mid-Shelf
+#-150000 	-890000 	0 TC High
+#20000		-1650000	0 TC Central 
+#20000		-1690000	0 TC High
+
+#Ross Ice Shelf
+#-260000		-750000		-40		TC	Kamb Ridge
+#140000		-1000000		-50		TC	Western Ross Ridge
+-380000		-550000		-40		TC	Crary Trough
+#Ross Sea
+#70000		-1350000	0		TC	DSDP 270
+#Other
+#400000		-905000		50		BC	Byrd	
+#265000		-740000		50		BC	Nimrod	
+#100000		-580000		75		BC	Beardmore
+-42000		-500000		82		BC	Shackleton
+#-230000		-400000		70		BC	Scott	
+
+	
+#-640000		-715000		0	10,Helvetica,black	TC	Trunk D
+#-640000		-755000		0	10,Helvetica,black	TC	Basin
+#-630000		-1128000	0	10,Helvetica,black	TC	Edward VII
+#-630000		-1168000	0	10,Helvetica,black	TC	Peninsula
+#-360000		-1110000	0	10,Helvetica,black	TC	RI
+#100000		-816000		0	10,Helvetica,black	TC	Western Ross	
+#100000		-856000		0	10,Helvetica,black	TC	Basin 
+#-468152		-728106		-40	10,Helvetica,black	TC	SDB
+#-150000		-885258		0	10,Helvetica,black	TC	Mid-Shelf
+#-150000		-925258		0	10,Helvetica,black	TC	High
+#-450000		-972147		0	10,Helvetica,black	TC	Shirase
+#-450000		-1012147	0	10,Helvetica,black	TC	High
+#-220000		-1380000	0	10,Helvetica,black	TC	Eastern
+#-220000		-1420000	0	10,Helvetica,black	TC	Basin
+#-103000		-1960000	0	10,Helvetica,black	TC	Iselin
+#-103000		-2000000	0	10,Helvetica,black	TC	Bank
+#-400000		-1250000	-40	10,Helvetica,black	TC	RvSB
+#20000		-1580000	0	10,Helvetica,black	TC	Central
+#20000		-1620000	0	10,Helvetica,black	TC	High
+#170000		-1480000	0	10,Helvetica,black	TC	CT	
+#320000		-1450000	0	10,Helvetica,black	TC	VLB
+#380000		-1430000	0	10,Helvetica,black 	TC	TR
+#270000		-1550000	-80	10,Helvetica,black	TC	Coulman High
+#220000		-1900000	0	10,Helvetica,black	TC	NB		
+#50000		-1900000	0	10,Helvetica,black	TC	CB 
+#-103000		-2000000	0	10,Helvetica,black	TC	IB
+#-625000		-715000		0	10,Helvetica,black	TC	TDB
+#-460000		-740000		0	10,Helvetica,black	TC	SDB
+#-310000		-610000		0	10,Helvetica,black	TC	CrT	
+#20000		-1580000	-90	10,Helvetica,black	TC	Central High
+#-500000		-950000		-50	10,Helvetica,black	TC	Shirase High
+#-80000		-1000000	-50	10,Helvetica,black	TC	Mid-Shelf High
+#-630000		-1128000	0	10,Helvetica,black	TC	EVII
+#100000		-816000		0	10,Helvetica,black	TC	Western Ross Basin	
+#-220000		-1380000	0	10,Helvetica,black	TC	EB
+#260000		-1210000	0	10,Helvetica,black	TC	MV
+#0			-1000000	0	8,Helvetica,black	TC	OIB 404.590
+#0			-1100000	0	8,Helvetica,black	TC	OIB 404.650
+#-130000		-1465000	-30	8,Helvetica,black	TC	OIB 403.1
+#-50000		-1750000	-30	8,Helvetica,black	TC	OIB 403.3
+#-625000		-745000		0	10,Helvetica,black	TC	Bindschadler Basin
+#-1065000	-427000		0	10,Helvetica,black	TC	BB
+#145000 		-784000		45	6,Helvetica,black 	TC 	SERIS Line
+#-250000		-600000		0	10,Helvetica,black	TC	CIR
+#-450000		-795000		0	10,Helvetica,black	TC	SD
+#285000		-1130000	0	8,Helvetica,black	TC	DD
+#-120000		-480000		0	10,Helvetica,black	TC	SGB
+#-110000		-660000		-90	8,Helvetica,black	TC	N-S ridge
+#270000		-1700000	0	10,Helvetica,black	TC	CoH
+#20000		-1430000	0	10,Helvetica,black	TC	CeH
+#-380000		-655000		0	10,Helvetica,black	TC	KIS
