@@ -1,0 +1,31 @@
+#x, y, [angle, font, justify], text
+#-340000		-700000		-25		TR	Kamb Ice Stream
+#-240000		-600000		-15		TR	Whillans Ice Stream
+#-360000		-680000		-25		TR	KIS
+#-300000		-550000		-15		TR	WIS
+#145000 		-790000		45	 	TC 	SERIS
+
+-670000		-670000		0 TC Trunk D
+-670000		-710000		0 TC Basin
+
+220000		-1840000	0 		TC Northern
+220000		-1880000	0 		TC Basin
+
+-220000		-1310000 	0 		TC Eastern
+-220000		-1350000 	0 		TC Basin
+
+147192		-1530000	0 		TC Coulman
+147192		-1570000	0 		TC Trough
+
+360853		-1520000 	0 		TC Victoria
+360853		-1560000 	0 		TC Land 
+360853		-1600000 	0 		TC Basin
+
+50000		-1910000	0 		TC Central
+50000		-1950000	0 		TC Basin
+
+360853		-1380000	0 		TC Terror
+360853		-1420000	0 		TC Rift
+
+255800		-2060000	0 		TC Adare
+255800		-2100000	0 		TC Trough

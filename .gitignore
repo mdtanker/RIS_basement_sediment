@@ -2,22 +2,26 @@ manuscript
 
 .ipynb_checkpoints
 
+gmt.history
+
 Figures/ipynb_checkpoints/*
-Figures/outputs/*
-!Figure/outputs/all_ROSETTA_lines
-Figure/outputs/all_ROSETTA_lines/*
 Figures/gmt.history
 
+Figures/outputs/*
+!Figures/outputs/.gitkeep
+!Figures/outputs/all_ROSETTA_lines
+
+Figures/outputs/all_ROSETTA_lines/*
+!Figures/outputs/all_ROSETTA_lines/.gitkeep
+
 data/tmp/*
-data/other/*
+!data/tmp/.gitkeep
 
 data/input/BedMachineAntarctica_2020-07-15_v02.nc
 data/input/moa750_2009_hp1_v1.1.tif
-data/input/AN1-CRUST.grd
-data/input/sedthick_total_v2_5km_epsg3031.nc
 
 data/results/BedMachine_bed_wgs.nc
 data/results/rs.csv
 data/results/rs_mag.csv
 
-gmt.history
+
