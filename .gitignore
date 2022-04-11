@@ -9,7 +9,7 @@ Figures/gmt.history
 
 Figures/outputs/*
 !Figures/outputs/.gitkeep
-!Figure/outputs/cover_fig.jpg
+!Figures/outputs/cover_fig.jpg
 !Figures/outputs/all_ROSETTA_lines
 
 Figures/outputs/all_ROSETTA_lines/*
