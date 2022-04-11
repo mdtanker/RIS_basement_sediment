@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6363912.svg)](https://doi.org/10.5281/zenodo.6363912)  
 ![GitHub top language](https://img.shields.io/github/languages/top/mdtanker/RIS_basement_sediment)  
 
-<img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/Figures/outputs/cover_fig.jpg" width="400">
+<img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/Figures/outputs/cover_fig.png" width="400">
 
 This repository accompanies our 2022 Geophysical Research Letters article *Basement topography and sediment thickness beneath Antarctica's Ross Ice Shelf*.
 
