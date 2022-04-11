@@ -1,0 +1,19 @@
+#x, y, [angle, font, justify], text
+
+100000		-830000		0 TC Western
+100000		-870000		0 TC Ross Basin
+
+-360000		-1110000	0 	TC Roosevelt
+-360000		-1150000	0 	TC Island
+
+-320000		-620000		0	TC	Crary
+-320000		-660000		0	TC	Trough
+
+-450000		-768000 	0 TC Siple Dome
+-450000		-808000 	0 TC Basin
+
+-100000 	-750000 	0 TC Mid
+-100000 	-900000 	0 TC Shelf
+-20000 	    -1050000 	0 TC High
+
+280000		-1230000	0 TC Minna Bluff
