@@ -2,9 +2,23 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6363912.svg)](https://doi.org/10.5281/zenodo.6363912)  ![GitHub top language](https://img.shields.io/github/languages/top/mdtanker/RIS_basement_sediment)  
 
+<!-- <p align="center">
+    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/ROSETTA.png" width=20%/>
+    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/VUW.png" width=20%/>
+    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/ANZ.png" width=20%/>
+    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/GNS.png" width=20%/>
+</p> -->
+
+|   |   |   |   |
+|:--:|---|---|:--:|
+| <img width="200" src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/ROSETTA.png"> | <img width="200" src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/VUW.png"> | <img width="200" src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/ANZ.png"> | <img width="200" src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/GNS.png"> |
+
+
+
+
 
 <p align="center">
-    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/Figures/outputs/cover_fig.png" width="400">
+    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/Figures/outputs/cover_fig.png" width="600">
 </p> 
 
 This repository accompanies our 2022 Geophysical Research Letters article *Basement topography and sediment thickness beneath Antarctica's Ross Ice Shelf*.
@@ -60,8 +74,3 @@ Tankersley, M. D., Horgan, H. J., Siddoway, C. S., Caratori Tontini, F., & Tinto
       year = {2022},
       journal = {Geophysical Research Letters}
     }
-
-<img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/ROSETTA.png" width="200" height="200">
-
-
-
