@@ -54,6 +54,14 @@ In *miniforge prompt*, cd into the RIS_basement_sediment folder:
 and enter the following: (replace "my_env" with a new name, I used pygmt06)
 
     conda env create --name my_env -f environment.yml
+
+Now add a kernel for this environment to Jupyter lab. In *miniforge prompt*:
+
+    ipython kernel install --name my_env
+
+If this gives an error enter the following and retry:
+	
+	conda install ipython jupyter 
   
 ## Running Jupyter lab
 In *miniforge prompt* 
