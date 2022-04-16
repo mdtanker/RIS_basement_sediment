@@ -51,9 +51,9 @@ In *miniforge prompt*, cd into the RIS_basement_sediment folder:
 
     cd RIS_basement_sediment
     
-and enter the following: (replace "my_env" with a new name, I used pygmt06)
+and enter the following: (replace "my_env" with a new name, I used "basement")
 
-    conda env create --name my_env -f environment.yml
+    conda env create --name my_env -f basement.yml
 
 Now add a kernel for this environment to Jupyter lab. In *miniforge prompt*:
 

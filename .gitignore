@@ -21,8 +21,8 @@ data/tmp/*
 data/input/BedMachineAntarctica_2020-07-15_v02.nc
 data/input/moa750_2009_hp1_v1.1.tif
 
-data/results/BedMachine_bed_wgs.nc
-data/results/rs.csv
-data/results/rs_mag.csv
+data/results/*
+!data/results/mean_misfit_oib_optimize.csv
+!data/results/mean_misfit_rs_optimize.csv
 
 
