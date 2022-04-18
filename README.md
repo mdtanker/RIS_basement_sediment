@@ -3,10 +3,10 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6363912.svg)](https://doi.org/10.5281/zenodo.6363912)  ![GitHub top language](https://img.shields.io/github/languages/top/mdtanker/RIS_basement_sediment)  
 
 <!-- <p align="center">
-    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/ROSETTA.png" width=20%/>
-    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/VUW.png" width=20%/>
-    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/ANZ.png" width=20%/>
-    <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/GNS.png" width=20%/>
+    <img src="https://github.com/mdtanker/readme_stuff/blob/main/ROSETTA.png" width=20%/>
+    <img src="https://github.com/mdtanker/readme_stuff/blob/main/VUW.png" width=20%/>
+    <img src="https://github.com/mdtanker/readme_stuff/blob/main/ANZ.png" width=20%/>
+    <img src="https://github.com/mdtanker/readme_stuff/blob/main/GNS.png" width=20%/>
 </p> -->
 
 |   |   |   |   |
