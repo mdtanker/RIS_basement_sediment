@@ -11,11 +11,7 @@
 
 |   |   |   |   |
 |:--:|---|---|:--:|
-| <img width="200" src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/ROSETTA.png"> | <img width="200" src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/VUW.png"> | <img width="200" src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/ANZ.png"> | <img width="200" src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/GNS.png"> |
-
-
-
-
+| <img width="200" src="https://github.com/mdtanker/readme_stuff/blob/main/ROSETTA.png"> | <img width="200" src="https://github.com/mdtanker/readme_stuff/blob/main/VUW.png"> | <img width="200" src="https://github.com/mdtanker/readme_stuff/blob/main/ANZ.png"> | <img width="200" src="https://github.com/mdtanker/readme_stuff/blob/main/GNS.png"> |
 
 <p align="center">
     <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/Figures/outputs/cover_fig.png" width="600">
