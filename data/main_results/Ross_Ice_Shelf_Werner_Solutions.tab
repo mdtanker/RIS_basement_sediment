@@ -1,0 +1,30 @@
+/* DATA DESCRIPTION:
+Citation:	Tankersley, Matthew; Horgan, Huw J; Siddoway, Christine S; Caratori Tontini, Fabio; Tinto, Kirsty (2022): Basement topography and sediment thickness beneath Antarctica's Ross Ice Shelf imaged with airborne magnetic data. PANGAEA, https://doi.pangaea.de/10.1594/PANGAEA.941238 (DOI registration in progress)
+Abstract:	Depth to the magnetic basement beneath Antarctica's Ross Ice Shelf was determined from Werner deconvolution of ROSETTA-Ice airborne magnetic data. This process was constrained by offshore seismic data which was tied to the Ross Ice Shelf with Operation Ice Bridge IceBridge airborne magnetic data. Using a sub-ice shelf bathymetry model, we calculated the thickness of non-magnetic cover sediments above the basement. This dataset contains NetCDF grids, for both Ross Ice Shelf and Ross Embayment extents, of basement elevations and sediment thicknesses, as well as their accompanied upper and lower uncertainties. Also included are profiles of all ROSETTA-Ice flight lines, showing Werner deconvolution solutions and the resulting magnetic basement. Basement solutions before gridding are available in a text file. 
+	Code for the creation and processing of all the data here is available at Github, through the following link: https://doi.org/10.5281/zenodo.6499863.
+Keyword(s):	Antarctica; Basement; Crary Ice Rise; geology; geophysics; Geothermal heat flux; ice shelf; landscape evolution; magnetics; Paleotopography; rifting; Roosevelt Island; Ross Embayment; Ross Ice Shelf; sediment; Siple Coast; Siple Dome; Subglacial sediments; Terror Rift; Werner deconvolution; West Antarctic Rift System
+Supplement to:	Tankersley, Matthew; Horgan, Huw J; Siddoway, Christine S; Caratori Tontini, Fabio; Tinto, Kirsty (2022): Basement topography and sediment thickness beneath Antarctica's Ross Ice Shelf. Geophysical Research Letters, https://doi.org/10.1029/2021GL097371
+Further details:	Lindeque, Ansa; Gohl, Karsten; Wobbe, Florian; Uenzelmann-Neben, Gabriele (2016): Preglacial to glacial sediment thickness grids for the Southern Pacific Margin of West Antarctica. Geochemistry, Geophysics, Geosystems, 17(10), 4276-4285, https://doi.org/10.1002/2016GC006401
+	Morlighem, Mathieu; Rignot, Eric; Binder, Tobias; Blankenship, Donald D; Drews, Reinhard; Eagles, Graeme; Eisen, Olaf; Ferraccioli, Fausto; Forsberg, René; Fretwell, Peter; Goel, Vikram; Greenbaum, Jamin S; Gudmundsson, Hilmar; Guo, Jingxue; Helm, Veit; Hofstede, Coen Matthijs; Howat, Ian M; Humbert, Angelika; Jokat, Wilfried; Karlsson, Nanna Bjørnholt; Sang Lee, Won; Matsuoka, Kenichi; Millan, Romain; Mouginot, Jeremie P; Paden, John D; Pattyn, Frank; Roberts, Jason L; Rosier, Sebastian H R; Ruppel, Antonia; Seroussi, Hélène; Smith, Emma Clare; Steinhage, Daniel; Sun, Bo; van den Broeke, Michiel R; van Ommen, Tas D; van Wessem, Jan Melchior; Young, Duncan A (2020): Deep glacial troughs and stabilizing ridges unveiled beneath the margins of the Antarctic ice sheet. Nature Geoscience, 13(2), 132-137, https://doi.org/10.1038/s41561-019-0510-8
+	Tankersley, Matthew (2022): mdtanker/RIS_basement_sediment: v2.0. Zenodo, https://doi.org/10.5281/zenodo.6499863
+Coverage:	LATITUDE: -81.484000 * LONGITUDE: -177.653000
+Event(s):	Ross-Ice-Shelf * LATITUDE: -81.484000 * LONGITUDE: -177.653000 * LOCATION: Antarctica
+Parameter(s):	File content (Content) * PI: Tankersley, Matthew (matthew.tankersley@vuw.ac.nz)
+	Binary Object (Binary) * IMPORTANT: to download, use the filename from data matrix appended to "https://download.pangaea.de/dataset/941238/files/" * PI: Tankersley, Matthew (matthew.tankersley@vuw.ac.nz)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels)
+Size:	24 data points
+*/
+Content	Binary
+Ross Ice Shelf basement depth solutions. Columns are; Easting (meters), Northing (meters), basement elevation relative to sea level (meters), and ROSETTA-Ice line number.	rosetta_points_blocked.txt
+Ross Ice Shelf gridded unfiltered basement elevations.	RIS_basement_unfilt.nc
+Ross Ice Shelf filtered basement elevations (80km Gaussian filter).	RIS_basement_filt.nc
+Ross Ice Shelf basement elevations merged with offshore basement depth compilation (Lindeque et al. 2016; doi:10.1002/2016GC006401).	Ross_Embayment_basement_filt.nc
+Ross Ice Shelf sediment thickness relative to Bedmachine2 bathymetry (Morlighem et al. 2020; doi:10.1038/s41561-019-0510-8).	RIS_sediment.nc
+Ross Ice Shelf sediment thickness merged with offshore sediment thickness, relative to Bedmachine2 bathymetry (Morlighem et al. 2020; doi:10.1038/s41561-019-0510-8).	Ross_Embayment_sediment.nc
+Lower uncertainty limit for Ross Ice Shelf basement elevations.	RIS_basement_filt_uncert_lower.nc
+Upper uncertainty limit for Ross Ice Shelf basement elevations.	RIS_basement_filt_uncert_upper.nc
+Lower uncertainty limit for Ross Ice Shelf sediment thickness.	RIS_sediment_uncert_lower.nc
+Upper uncertainty limit for Ross Ice Shelf sediment thickness.	RIS_sediment_uncert_upper.nc
+Beta crustal stretching factors estimated for the Ross Embayment with an assumed initial crustal thickness of 38km.	Ross_Embayment_beta.nc
+Zipped file containing .png images of all ROSETTA line solutions. See figure S4 of the paper for flight line locations.	all_ROSETTA_lines.zip
