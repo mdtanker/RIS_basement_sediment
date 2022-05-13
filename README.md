@@ -17,7 +17,7 @@
     <img src="https://github.com/mdtanker/RIS_basement_sediment/blob/main/Figures/outputs/cover_fig.png" width="600">
 </p> 
 
-This repository accompanies our 2022 Geophysical Research Letters article *Basement topography and sediment thickness beneath Antarctica's Ross Ice Shelf*, which can be accessed [here](https://www.essoar.org/doi/10.1002/essoar.10509277.2).
+This repository accompanies our 2022 Geophysical Research Letters article *Basement topography and sediment thickness beneath Antarctica's Ross Ice Shelf*, which can be accessed [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL097371).
 
 Here we document our scientific workflow in a Jupyter notebook, present our gridded results as netCDF files, and showcase our figures created using PyGMT.
 
